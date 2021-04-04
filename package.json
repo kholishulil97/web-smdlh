@@ -1,0 +1,16 @@
+{
+  "name": "web-smdlh",
+  "version": "1.0.0",
+  "description": "Projek Web Manjemen Dinas dan Laporan Harian Akas IV",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kholish ua",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
+    "toastr": "^2.1.4"
+  }
+}
